@@ -35,10 +35,6 @@ This project uses the following tools:
 
 📊 pandas
 
-📈 matplotlib
-
-🌈 seaborn
-
 🔎 Jupyter Notebooks
 
 🚀 What You’ll Learn
