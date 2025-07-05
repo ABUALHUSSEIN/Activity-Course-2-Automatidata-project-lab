@@ -1,5 +1,5 @@
 # Activity-Course-2-Automatidata-project-lab
-# 📊 AutomatiData Project Lab – Exploratory Data Analysis with Python
+📊 AutomatiData Project Lab – Exploratory Data Analysis with Python
 ✨ "The foundation of every data-driven decision is built on understanding the story behind the numbers."
 
 Welcome to the AutomatiData Project Lab, part of the Coursera Get Started with Python course. This project demonstrates the fundamental steps of Exploratory Data Analysis (EDA) using Python — including loading data, inspecting structure, identifying insights, and visualizing results.
