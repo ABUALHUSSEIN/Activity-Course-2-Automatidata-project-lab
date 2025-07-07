@@ -45,12 +45,6 @@ Importing and inspecting datasets
 Cleaning missing or inconsistent data
 
 
-📌 Project Structure
-bash
-نسخ
-تحرير
-These plots help translate raw data into actionable business strategies.
-
 🤔 Key Insights
 Identified top-performing product lines by revenue and units sold.
 
