@@ -1,60 +1,56 @@
-# Activity-Course-2-Automatidata-project-lab
-📊 AutomatiData Project Lab – Exploratory Data Analysis with Python
-✨ "The foundation of every data-driven decision is built on understanding the story behind the numbers."
+# Google Advanced Data Analytics Certificate – Python Projects & Datasets
 
-Welcome to the AutomatiData Project Lab, part of the Coursera Get Started with Python course. This project demonstrates the fundamental steps of Exploratory Data Analysis (EDA) using Python — including loading data, inspecting structure, identifying insights, and visualizing results.
+This repository contains structured and well-documented datasets, Python notebooks, and end-of-course projects completed as part of the **"Get Started with Python"** course in the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics).
 
-🧠 Project Objective
-The goal of this project is to explore, clean, and visualize a dataset to uncover insights and practice core Python skills. This is a hands-on, beginner-friendly data science project designed to:
+---
 
-Apply data wrangling techniques using pandas
+## 📦 What's Inside
 
-Generate summary statistics and descriptive insights
+This repo serves as a **personal reference and public resource** for learners, career changers, and junior data professionals looking to practice real-world Python data analysis skills.
 
-Practice real-world data interpretation
+### ✅ Included Projects:
 
-📁 Dataset Overview
-The dataset used simulates a fictional company called AutomatiData, which collects various operational and customer-related information.
+| Project                  | Description                                                              | Files Included                         |
+|--------------------------|--------------------------------------------------------------------------|----------------------------------------|
+| **Waze Churn Analysis**  | Exploratory analysis of user churn data from the Waze app                | `waze_dataset.csv`, `Waze_Project_Lab.ipynb` |
+| **TikTok Claim Classification** | Data inspection and engagement analysis to prepare for classification modeling | `tiktok_dataset.csv`, `TikTok_Project_Lab.ipynb` |
+| **Automatidata: NYC Taxi Analysis** | Real-world data consulting scenario with the NYC Taxi & Limousine Commission | `nyc_taxi_dataset.csv`, `Automatidata_Project_Lab.ipynb` |
 
-The data includes:
+---
 
-Product lines
+## 🎯 Purpose of This Repository
 
-Sales data
+- 📘 Act as a **self-study reference** for key concepts in Python data analysis
+- 💼 Showcase completed projects from a **recognized certificate program**
+- 🤝 Help other learners who want clean, structured, real-world practice datasets
+- 🔁 Allow future revisits and enhancements to project notebooks
 
-Customer satisfaction ratings
+---
 
-Regional performance metrics
+## 🧰 Tech Stack
 
-Note: This is a synthetic dataset provided for educational purposes only.
+- **Python 3**
+- **pandas**, **NumPy**
+- Jupyter / Google Colab
+- CSV data formats
 
-🔧 Tools & Libraries
-This project uses the following tools:
+---
 
-🐍 Python 3
+## 👥 Who Is This For?
 
-📊 pandas
+- Learners in the Google Advanced Data Analytics Certificate
+- Self-taught data analysts or professionals switching to analytics
+- Data science students looking for practice projects
 
-🔎 Jupyter Notebooks
-
-🚀 What You’ll Learn
-By exploring this notebook, you'll gain practical experience with:
-
-Importing and inspecting datasets
-
-Cleaning missing or inconsistent data
+---
 
 
-🤔 Key Insights
-Identified top-performing product lines by revenue and units sold.
 
-Uncovered regions with the highest customer satisfaction.
 
-Flagged potential areas for improving service delivery.
 
-📚 Acknowledgment
-This project is based on the "AutomatiData Project Lab" from the Coursera course Get Started with Python. It was created as part of a learning journey into data science and Python programming.
 
-⭐️ If you found this helpful...
-Give this repo a ⭐️ and follow for more beginner-to-pro data science projects!
+> *“Learning is most powerful when it’s shared.”*  
+> ⭐ Consider starring the repo if it helps you!
+
+---
 
